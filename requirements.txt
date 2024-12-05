@@ -1,9 +1,10 @@
-fastapi
-uvicorn
-pymysql
-sqlalchemy
-databases
-pydantic
 bcrypt
+databases
+fastapi
 passlib
+pydantic
+pymysql
+python-dotenv
 python-jose
+sqlalchemy
+uvicorn
