@@ -3,6 +3,7 @@ databases
 fastapi
 passlib
 pydantic
+pydantic[email]
 pydantic-extra-types
 pydantic-settings
 pydantic_core
