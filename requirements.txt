@@ -1,5 +1,6 @@
 bcrypt
 databases
+email_validator
 fastapi
 passlib
 pydantic
