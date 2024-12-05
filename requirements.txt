@@ -9,5 +9,6 @@ pydantic_core
 pymysql
 python-dotenv
 python-jose
+python-multipart
 sqlalchemy
 uvicorn
