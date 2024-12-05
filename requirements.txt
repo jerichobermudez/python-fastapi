@@ -1,2 +1,9 @@
 fastapi
 uvicorn
+pymysql
+sqlalchemy
+databases
+pydantic
+bcrypt
+passlib
+python-jose
